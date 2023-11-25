@@ -2,11 +2,11 @@
   "magisk": {
     "version": "0fe46c5a-delta",
     "versionCode": "26301",
-    "link": "https://huskydg.github.io/magisk-files.old/app-release.apk",
-    "note": "https://huskydg.github.io/magisk-files.old/note.md"
+    "link": "https://github.com/HuskyDG/magisk-files-old/blob/main/app-release.apk",
+    "note": "https://github.com/HuskyDG/magisk-files-old/blob/main/note.md"
   },
   "stub": {
     "versionCode": "36",
-    "link": "https://huskydg.github.io/magisk-files.old/stub-release.apk"
+    "link": "https://github.com/HuskyDG/magisk-files-old/blob/main/stub-release.apk"
   }
 }
